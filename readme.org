@@ -36,5 +36,10 @@ EOF
 
 #+END_SRC
 
-#+RESULTS:
+
+Credit
+
+https://github.com/gentoo/gentoo-docker-images/blob/master/stage3.Dockerfile
+
+
 
